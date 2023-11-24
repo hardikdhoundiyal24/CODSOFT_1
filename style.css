@@ -1,0 +1,95 @@
+body{ background-image: url("CV-background PNG.png");
+background-color:rgb(196, 187, 175)}
+
+.resume{display: flex;}
+
+.myphoto{height: 400px;
+    width: 400px;
+
+margin-left: 50px;
+margin-top: 200px;
+border-radius:10px;
+ }
+
+ .intro{
+font-size: 20px;
+margin-left: 100px;
+margin-top: 200px;
+font-family: Arial, Helvetica, sans-serif;
+width: 800px;}
+
+.hey{font-size: 60px;}
+
+.name{color: brown;}
+
+.less{font-size: 29px;}
+
+.more{font-size: 29px;}
+
+.insta{height: 50px;
+    width:55px;
+    
+
+}
+
+.social{margin-left: 200px;
+margin-top: 200px;
+}
+
+.whatsapp{height: 50px;
+    width:55px;}
+
+.gmail{height: 50px;
+width: 55px;}
+
+.github{height: 50px;
+    width:55px;}
+
+.linkedin{height: 50px;
+    
+padding: none;
+border-style:none;
+width:55px;}
+
+.bar{background-color: rgb(66, 85, 119);
+height:50px;}
+
+
+
+.skill{text-align: center;
+line-height: 75px;
+font-size: 70px;
+color: brown;
+}
+
+.list{text-align: center;
+list-style-type: none;
+font-size: 30px;}
+
+.list1{list-style: none;}
+
+.list2{list-style: none;}
+
+.below{display: flex;}
+
+.skills{margin-left:325px ;
+}
+
+.project{margin-left: 500px;}
+
+.projects{font-size: 70px;
+color:brown;}
+
+.contact{display: flex;
+justify-content: space-evenly;
+}
+
+.contactme{font-size: 70px;
+color: brown;}
+.con-section{
+margin:3em 2em 2em i2em;
+
+
+}
+
+.flipkart{font-size: 25px;}
